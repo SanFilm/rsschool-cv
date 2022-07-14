@@ -20,21 +20,21 @@
 ----------
 ### Skills:
 
-####    +__IT__
+####    + __IT__
        + HTML
        + CSS (SCSS/SASS)
        + BEM methodology
        + JavaScript (entry level for WEB development)
        + Git/GitHub
        + Figma, Adobe Photoshop
-####    +__Sound__
+####    + __Sound__
        - Cacos Reaper (digital audio workstation)
        - NI Kontakt
        - Spectrasonics Omnisphere, Trilian, Stylus RMX...
        - ReFX Nexus 3
        - Fxpansion BFD3
        - and much more...
-####    +__Video__
+####    + __Video__
         - Adobe Premiere Pro
 ----------
 ### Code examples:
