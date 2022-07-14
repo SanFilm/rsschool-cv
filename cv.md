@@ -1,10 +1,10 @@
 # rsschool-cv
-## *Aliaksandr Filatau*
-* 07.06.1967 - Date of Birth.
-* Location: Brest, Belarus.
+## * Aliaksandr Filatau*
+  + 07.06.1967 - Date of Birth.
+  + Location: Brest, Belarus.
 
 ----------
-###Contact information:
+### * Contact information:
     - E-mail:   sanfilm@gmail.com
     - Discord:  @SanFilm
     - Telegram: @SanFil67
