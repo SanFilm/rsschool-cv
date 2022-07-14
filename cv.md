@@ -20,13 +20,13 @@
 ----------
 ### Skills:
 
-    #### + __IT__
-      - HTML
-      - CSS (SCSS/SASS)
-      - BEM methodology
-      - JavaScript (entry level for WEB development)
-      - Git/GitHub
-      - Figma, Adobe Photoshop
+    #### __IT__
+        HTML
+        CSS (SCSS/SASS)
+        BEM methodology
+        JavaScript (entry level for WEB development)
+        Git/GitHub
+        Figma, Adobe Photoshop
     #### + __Sound__
         - Cacos Reaper (digital audio workstation)
         - NI Kontakt
