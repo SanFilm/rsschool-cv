@@ -20,7 +20,7 @@
 ----------
 ### Skills:
 
-    #### __IT__
+#### __IT__
         HTML
         CSS (SCSS/SASS)
         BEM methodology
