@@ -21,8 +21,8 @@
 ### Skills:
 
 #### __IT__
-        HTML
-        CSS (SCSS/SASS)
+  + HTML
+      - CSS (SCSS/SASS)
         BEM methodology
         JavaScript (entry level for WEB development)
         Git/GitHub
