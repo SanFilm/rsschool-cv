@@ -19,24 +19,24 @@
 
 ----------
 ### Skills:
-
-  + #### **IT:**
+  + ##### **IT:**
       - ##### _HTML_
       - ##### _CSS (SCSS/SASS)_
       - ##### _BEM methodology_
       - ##### _JavaScript (entry level for WEB development)_
       - ##### _Git/GitHub_
       - ##### _Figma, Adobe Photoshop_
-  + #### **Sound:**
+  + ##### **Sound:**
       - ##### _Cacos Reaper (digital audio workstation)_
       - ##### _NI Kontakt_
       - ##### _Spectrasonics Omnisphere, Trilian, Stylus RMX..._
       - ##### _ReFX Nexus 3_
       - ##### _Fxpansion BFD3_
       - ##### _and much more..._
-  + #### **Video:**
+  + ##### **Video:**
       - ##### _Adobe Premiere Pro_
 ----------
+
 ### Code examples:
 #### _www.codewars.com_
 
@@ -57,8 +57,15 @@ console.log(isDivideBy(15, -5, 3))
 ```
 ----------
 ### Work Experience:
+  + ##### **RS School**
 ----------
 ### Education:
+  + ##### **Java courses - 110 hours**
+  + ##### **YouTube self-education:**
+      - ##### _Freelancer for life - Freelancer for life_
+      - ##### _Artem Islamov - Glo Academy_
+      - ##### _Anna Block_
+  + ##### **RS School**
 ----------
 ### Languages:
 I don't speak English.
