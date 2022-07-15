@@ -78,8 +78,8 @@ console.log(isDivideBy(15, -5, 3))
 ----------
 
 ### Languages:
-Russian - native speaker.
-English - I don't speak.
+  + ##### **Russian - native speaker.**
+  + ##### **English - I don't speak.**
 
 ----------
 
