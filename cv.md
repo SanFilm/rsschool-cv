@@ -63,17 +63,17 @@ console.log(isDivideBy(15, -5, 3))
 ----------
 
 ### Work Experience:
-  + ##### **RS School**
+  + ##### **RS School -> www.rs.school**
 
 ----------
 
 ### Education:
   + ##### **Java courses - 110 hours**
   + ##### **YouTube self-education:**
-      - ##### _Freelancer for life - Freelancer for life_
-      - ##### _Artem Islamov - Glo Academy_
-      - ##### _Anna Block_
-  + ##### **RS School**
+      - ##### _Freelancer for life -> www.youtube.com/c/FreelancerLifeStyle_
+      - ##### _Artem Islamov - Glo Academy -> www.youtube.com/c/GloAcademyChannel_
+      - ##### _Anna Block -> www.youtube.com/c/АннаБлок_
+  + ##### **RS School -> www.rs.school**
 
 ----------
 
