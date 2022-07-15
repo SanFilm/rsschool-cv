@@ -4,6 +4,7 @@
   - Location: Brest, Belarus.
 
 ----------
+
 ### Contacts for communication:
     - E-mail:   sanfilm@gmail.com
     - Discord:  @SanFilm
@@ -11,6 +12,7 @@
     - Phone:    +375336420952
 
 ----------
+
 ### Briefly about myself:
 <p>A great desire to be financially independent from circumstances, providing the family with everything necessary. View the world. To live rejoicing every day, charging others with positive and help those who are near.</p>
 <p>Since the 90s of the last century I have been working at celebrations, in restaurants ... I am a vocalist and a little musician, and now a DJ. I am also engaged in arranging and writing phonograms for performance. In the 2000s he mastered video production. Teamwork, shooting and editing videos, graduations, weddings (turnkey). So to speak - not life, but fun ... But as it is written on the ring of King Solomon: "everything passes and this will pass."</p>
@@ -18,6 +20,7 @@
 <p>"Forward, to meet IT adventures !!!"</p>
 
 ----------
+
 ### Skills:
   + ##### **IT:**
       - ##### _HTML_
@@ -35,6 +38,7 @@
       - ##### _and much more..._
   + ##### **Video:**
       - ##### _Adobe Premiere Pro_
+
 ----------
 
 ### Code examples:
@@ -55,10 +59,14 @@ console.log(isDivideBy(45, 5, 15))
 console.log(isDivideBy(4, 1, 4))
 console.log(isDivideBy(15, -5, 3))
 ```
+
 ----------
+
 ### Work Experience:
   + ##### **RS School**
+
 ----------
+
 ### Education:
   + ##### **Java courses - 110 hours**
   + ##### **YouTube self-education:**
@@ -66,9 +74,12 @@ console.log(isDivideBy(15, -5, 3))
       - ##### _Artem Islamov - Glo Academy_
       - ##### _Anna Block_
   + ##### **RS School**
+
 ----------
+
 ### Languages:
 I don't speak English.
 
 ----------
+
 ###### 15.07.2022
