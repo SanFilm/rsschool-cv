@@ -20,22 +20,22 @@
 ----------
 ### Skills:
 
-  + #### ***IT***
-      - HTML
-      - CSS (SCSS/SASS)
-      - BEM methodology
-      - JavaScript (entry level for WEB development)
-      - Git/GitHub
-      - Figma, Adobe Photoshop
-    #### + __Sound__
-        - Cacos Reaper (digital audio workstation)
-        - NI Kontakt
-        - Spectrasonics Omnisphere, Trilian, Stylus RMX...
-        - ReFX Nexus 3
-        - Fxpansion BFD3
-        - and much more...
-    #### + __Video__
-        - Adobe Premiere Pro
+  + #### **IT**
+      - ##### _HTML_
+      - ##### _CSS (SCSS/SASS)_
+      - ##### _BEM methodology_
+      - ##### _JavaScript (entry level for WEB development)_
+      - ##### _Git/GitHub_
+      - ##### _Figma, Adobe Photoshop_
+  + #### **Sound**
+      - ##### _Cacos Reaper (digital audio workstation)_
+      - ##### _NI Kontakt_
+      - ##### _Spectrasonics Omnisphere, Trilian, Stylus RMX..._
+      - ##### _ReFX Nexus 3_
+      - ##### _Fxpansion BFD3_
+      - ##### _and much more..._
+  + #### **Video**
+      - ##### _Adobe Premiere Pro_
 ----------
 ### Code examples:
 #### _www.codewars.com_
