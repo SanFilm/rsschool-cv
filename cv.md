@@ -1,5 +1,6 @@
 ## rsschool-cv
 # Aliaksandr Filatau
+![Aliaksandr Filatau](./img/SF_2022-06-16_10-40-01-731%20копия.jpg)
   - 07.06.1967 - Date of Birth.
   - Location: Brest, Belarus.
 
@@ -42,7 +43,7 @@
 ----------
 
 ### Code examples:
-#### _www.codewars.com_
+#### _[www.codewars.com](www.codewars.com)_
 
 ```
 function isDivideBy(number, a, b) {
@@ -63,17 +64,17 @@ console.log(isDivideBy(15, -5, 3))
 ----------
 
 ### Work Experience:
-  + ##### **RS School -> www.rs.school**
+  + ##### **[RS School](www.rs.school)**
 
 ----------
 
 ### Education:
   + ##### **Java courses - 110 hours**
   + ##### **YouTube self-education:**
-      - ##### _Freelancer for life -> www.youtube.com/c/FreelancerLifeStyle_
-      - ##### _Artem Islamov - Glo Academy -> www.youtube.com/c/GloAcademyChannel_
-      - ##### _Anna Block -> www.youtube.com/c/АннаБлок_
-  + ##### **RS School -> www.rs.school**
+      - ##### _[Freelancer for life](www.youtube.com/c/FreelancerLifeStyle)_
+      - ##### _[Artem Islamov - Glo Academy](www.youtube.com/c/GloAcademyChannel)_
+      - ##### _[Anna Block](www.youtube.com/c/АннаБлок)_
+  + ##### **[RS School](www.rs.school)**
 
 ----------
 
@@ -83,4 +84,4 @@ console.log(isDivideBy(15, -5, 3))
 
 ----------
 
-###### 15.07.2022
+###### 15.07.2022.
