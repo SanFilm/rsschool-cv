@@ -64,7 +64,7 @@ console.log(isDivideBy(15, -5, 3))
 ----------
 
 ### Work Experience:
-  + ##### **[RS School](www.rs.school)**
+  + ##### **[RS School](https://www.rs.school/)**
 
 ----------
 
