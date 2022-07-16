@@ -43,7 +43,7 @@
 ----------
 
 ### Code examples:
-#### _[www.codewars.com](https://www.rs.school/)_
+#### _[www.codewars.com](https://www.codewars.com/dashboard)_
 
 ```
 function isDivideBy(number, a, b) {
@@ -71,9 +71,9 @@ console.log(isDivideBy(15, -5, 3))
 ### Education:
   + ##### **Java courses - 110 hours**
   + ##### **YouTube self-education:**
-      - ##### _[Freelancer for life](www.youtube.com/c/FreelancerLifeStyle)_
-      - ##### _[Artem Islamov - Glo Academy](www.youtube.com/c/GloAcademyChannel)_
-      - ##### _[Anna Block](www.youtube.com/c/АннаБлок)_
+      - ##### _[Freelancer for life](https://www.youtube.com/c/FreelancerLifeStyle)_
+      - ##### _[Artem Islamov - Glo Academy](https://www.youtube.com/c/GloAcademyChannel)_
+      - ##### _[Anna Block](https://www.youtube.com/c/АннаБлок)_
   + ##### **[RS School](https://www.rs.school/)**
 
 ----------
