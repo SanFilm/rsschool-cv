@@ -43,7 +43,7 @@
 ----------
 
 ### Code examples:
-#### _[www.codewars.com](www.codewars.com)_
+#### _[www.codewars.com](https://www.rs.school/)_
 
 ```
 function isDivideBy(number, a, b) {
@@ -74,7 +74,7 @@ console.log(isDivideBy(15, -5, 3))
       - ##### _[Freelancer for life](www.youtube.com/c/FreelancerLifeStyle)_
       - ##### _[Artem Islamov - Glo Academy](www.youtube.com/c/GloAcademyChannel)_
       - ##### _[Anna Block](www.youtube.com/c/АннаБлок)_
-  + ##### **[RS School](www.rs.school)**
+  + ##### **[RS School](https://www.rs.school/)**
 
 ----------
 
