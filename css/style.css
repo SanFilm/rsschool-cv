@@ -1,7 +1,7 @@
 /*---------- border-box - сохранение геометрии элементов --------------------*/
 html{
 	box-sizing: border-box;
-	background: #00000078;
+	background: #aaaaaa;
 }
 *, *::after, *::before{
 	box-sizing: inherit;
